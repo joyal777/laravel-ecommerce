@@ -68,3 +68,15 @@ Follow these steps to get your development environment running:
 6. **Run**
    ```bash
    php artisan serve
+7. **Credentials**
+   
+   **admin**
+   ```bash
+   gmail : "admin@example.com"
+   password : "password"
+   ```
+   **user**
+   ```bash
+   gmail : "user@example.com"
+   password : "password"
+   ```
