@@ -38,7 +38,10 @@ Follow these steps to get your development environment running:
    php artisan key:generate
 4. **Database config**
    ```bash
-    DB_DATABASE=laravel_ecommerce
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=laravel-ecommerce
     DB_USERNAME=root
     DB_PASSWORD=
 5. **Migration**
