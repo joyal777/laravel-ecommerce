@@ -18,3 +18,20 @@ Follow these steps to get your development environment running:
    ```bash
    git clone <https://github.com/joyal777/laravel-ecommerce.git>
    cd <laravel-ecommerce>
+2. **Install Dependencies**
+   ```bash
+   composer install
+   npm install
+3. **Environment Setup**
+   ```bash
+   cp .env.example .env
+   php artisan key:generate
+4. **Database config**
+   ```bash
+    DB_DATABASE=laravel_ecommerce
+    DB_USERNAME=root
+    DB_PASSWORD=
+5.**Migration**
+    php artisan migrate --seed
+    or 
+    copy the db in /database/laravel-ecommerce.sql
