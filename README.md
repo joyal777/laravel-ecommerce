@@ -31,7 +31,11 @@ Follow these steps to get your development environment running:
     DB_DATABASE=laravel_ecommerce
     DB_USERNAME=root
     DB_PASSWORD=
-5.**Migration**
+5. **Migration**
+   ```bash
     php artisan migrate --seed
     or 
     copy the db in /database/laravel-ecommerce.sql
+6. **Run**
+   ```bash
+   php artisan serve
