@@ -1,6 +1,16 @@
 # Laravel E-Commerce API (Backend)
 
 This is a robust backend for an E-Commerce application built with Laravel. It features a complete database schema, authentication, and product management.
+<p align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github.com/joyal777/laravel-ecommerce/blob/main/public/Screenshot%202026-01-13%20194626.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/joyal777/laravel-ecommerce/blob/main/public/Screenshot%202026-01-13%20194650.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/joyal777/laravel-ecommerce/blob/main/public/Screenshot%202026-01-13%20194843.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/joyal777/laravel-ecommerce/blob/main/public/Screenshot%202026-01-13%20194903.png?raw=true" width="200"></td>
+    </tr>
+  </table>
+</p>
 
 ## 🚀 Features
 * **Database Management:** Includes a pre-built `.sql` dump and Laravel Migrations/Seeders.
